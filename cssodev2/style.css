@@ -1,0 +1,56 @@
+.google{
+    width: 350px;
+    height: 100px;
+    margin: 0 auto;
+}
+.search{
+    background-color: rgb(232, 235, 236);
+    text-align: center;
+    width: 1200px;
+    height: 60px;
+    margin: 0 60px;
+}
+.cubuk{
+    margin: 0;
+    width: 300px;
+}
+.container{
+    margin: 0 58px;
+}
+.div1{
+    width: 450px;
+    height: 59px;
+    background-color:rgb(127, 224, 224);
+    float: left;
+    text-align: center;
+    margin: 3px;
+    padding: 10px 0;    
+}
+.div2{
+    width: 196px;
+    height: 69px;
+    background-color: rgb(105, 202, 202);
+    float: left;
+    text-align: center;
+    margin: 3px 0.5px;
+    font-size: small;
+    padding: 5px 0;
+}
+.div3{
+    width: 546px;
+    height: 79px;
+    background-color: rgb(101, 179, 179);
+    float: left;
+    text-align: center;
+    margin: 3px;
+    font-size: small;
+}
+/*Sol tarafı temizlemek için clear adında bir sınıf açıp both değerini atadım.
+Bunu yapma amacım bir sonraki ögelerin alta geçmesi*/
+.clear{
+    clear: both;
+}
+.telif{
+    text-align: center;
+    font-size: small;
+}
