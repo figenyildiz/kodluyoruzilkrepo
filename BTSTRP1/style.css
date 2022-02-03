@@ -1,0 +1,17 @@
+#jumbotron{
+    background-color: #e9ecef ;
+}
+.italic-text{
+    font-style: italic;
+}
+.card-group{
+    display: flex;
+}
+.margin-img{
+    margin: 40px;
+}
+.bosluk{
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 200px;
+}
